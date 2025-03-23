@@ -89,11 +89,3 @@ output "public_ip" {
 L'infrastructure a été détruite proprement en utilisant la commande terraform destroy.
 
 
-
-
-Dépôt GitHub : Lien vers le dépôt GitHub
-
-Références
-Documentation Terraform : https://www.terraform.io/docs
-
-Documentation AWS : https://aws.amazon.com/documentation/
